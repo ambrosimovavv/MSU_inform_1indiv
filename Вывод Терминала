@@ -1,0 +1,41 @@
+Last login: Sat Oct 23 18:53:28 on ttys000
+(base) viktoriaambrosimova@MacBook-Pro-Viktoria ~ % cd Documents              
+(base) viktoriaambrosimova@MacBook-Pro-Viktoria Documents % gcc firstIndivTask.c -o ft
+(base) viktoriaambrosimova@MacBook-Pro-Viktoria Documents % ./ft        
+input filename ->test
+This file is empty%                                                                (base) viktoriaambrosimova@MacBook-Pro-Viktoria Documents % ./ft 
+input filename ->test1
+ERROR! This is not sequence%                                                       (base) viktoriaambrosimova@MacBook-Pro-Viktoria Documents % ./ft 
+input filename ->test2
+5
+(base) viktoriaambrosimova@MacBook-Pro-Viktoria Documents % ./ft 
+input filename ->test3
+ERROR! This sequence is not non-descending%                                        (base) viktoriaambrosimova@MacBook-Pro-Viktoria Documents % ./ft 
+input filename ->test4
+ERROR! This sequence is not non-descending%                                        (base) viktoriaambrosimova@MacBook-Pro-Viktoria Documents % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
